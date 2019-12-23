@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color:#eeb1c5;}
+
+#uno {
+    background-color: blue;}
+
+#dos {
+    background-color: crimson;}
+.subtítulo {
+    text-align: center; color:gray;}
+.subtítulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.titulo{font-size: 5mm;}
+#imagen{float: left;}
+#tres{color: red;}
