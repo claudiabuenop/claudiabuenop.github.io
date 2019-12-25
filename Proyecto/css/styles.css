@@ -1,16 +1,39 @@
-h1{
+#title{ 
     text-align: center;
-    background-color:#eeb1c5;}
+    background-color: cornflowerblue;
+    font-family: Verdana;
+    color: whitesmoke;
+}
+#subtitle{
+    text-align: center;
+    font-family:Arial;
+    font-style: italic;
+    font-size: 5mm; 
+    background-color: steelblue;   
+    color: whitesmoke;
+}
 
-#uno {
-    background-color: blue;}
+#presentation{
+    font-family: sans-serif;
+    font-size: medium;
+    text-align: justify;
+    text-align: center;
+}
+#title2{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Verdana;
+    background-color: rgb(120, 158, 189);
+}
 
-#dos {
-    background-color: crimson;}
-.subtítulo {
-    text-align: center; color:gray;}
-.subtítulo{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;}
-.titulo{font-size: 5mm;}
-#imagen{float: left;}
-#tres{color: red;}
+.one{
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.img{
+    float: right;
+    width: 60mm;
+    height: 60mm;
+
+}
