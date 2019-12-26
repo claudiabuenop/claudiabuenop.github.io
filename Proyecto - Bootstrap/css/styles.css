@@ -13,7 +13,44 @@ a{
     text-align: center;
 }
 
-#imagen{
-    float:center;
-    width: 100%;
+
+
+
+
+
+
+#texto{
+ color: slategrey;
+ background-color: slategrey;
+ height: 1cm;
+ width: 2000cm;
 }
+}
+#h1{
+    color: white;
+    text-align: center;
+
+}
+.cabo{
+    color: white;
+    text-align: justify;
+    text-align: right;
+}
+.tunez{
+    color: white;
+    text-align: justify;
+    text-align: right;
+}
+
+.bali{
+    color: white;
+    text-align: justify;
+    text-align: right;
+}
+.kl{
+    color: white;
+    text-align: justify;
+    text-align: right;
+}
+
+
