@@ -15,15 +15,10 @@ a{
 
 
 
-
-
-
-
 #texto{
  color: slategrey;
  background-color: slategrey;
  height: 1cm;
- width: 2000cm;
 }
 }
 #h1{
@@ -33,24 +28,84 @@ a{
 }
 .cabo{
     color: white;
-    text-align: justify;
-    text-align: right;
+    text-align: center;
 }
 .tunez{
     color: white;
     text-align: justify;
-    text-align: right;
+    text-align: center;
 }
 
 .bali{
     color: white;
     text-align: justify;
-    text-align: right;
+    text-align: center;
 }
 .kl{
     color: white;
     text-align: justify;
-    text-align: right;
+    text-align: center;
 }
 
+#titulo1{
+    color: white;
+    text-align: center;
+}
 
+#subtitle{
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+#one{
+    height: 330px;
+    width: 700px;
+}
+#two{
+    height: 330px;
+    width:700px ;
+}
+
+#three{
+    height: 330px;
+    width: 700px;
+}
+#four{
+    height: 330px;
+    width: 700px;
+}
+
+#bali{
+    height: 330px;
+    width: 700px;
+}
+#rio{
+    height: 330px;
+    width: 700px;    
+}
+
+#madrid{
+    height: 330px;
+    width: 700px;    
+}
+#sidney{
+    height: 330px;
+    width: 700px;
+}
+
+#barra{
+    float: left;
+}
+
+#barra a {
+    font-size: 25px;
+}
+
+#linea{
+    height: 0,5cm;
+
+}
+p{
+    font-size: 20px;
+}
